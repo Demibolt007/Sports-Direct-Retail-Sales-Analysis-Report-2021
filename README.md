@@ -2,7 +2,7 @@
 
 **Overview**
 
-This report presents an analysis of Sports Direct’s sales performance for 2021, based on Adidas product sales across different retailers, regions, and sales channels. The data provides insights into product demand, pricing impact, revenue generation, and operational profitability across various locations.
+This report presents an analysis of Sports Direct’s sales performance for 2021, based on product sales across different retailers, regions, and sales channels. The data provides insights into product demand, pricing impact, revenue generation, and operational profitability across various locations.
 
 **Key Stakeholders**
 
